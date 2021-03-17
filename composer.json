@@ -1,0 +1,27 @@
+{
+  "name": "landofcoder/module-sitemap",
+  "description": "Magento 2 Google XML Sitemap extension",
+  "require": {
+    "landofcoder/module-all": "^1.*",
+    "landofcoder/module-seo-extension": "*"
+  },
+  "type": "magento2-module",
+  "version": "4.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Landofcoder",
+      "email": "info@landofcoder.com",
+      "homepage": "https://landofcoder.com",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Lof\\Sitemap\\": ""
+    }
+  }
+}
