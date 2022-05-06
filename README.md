@@ -63,5 +63,5 @@ A website can still operate, though it has shown sitemap or not. However, a web 
 
 
 **Other free extension on Github**
-- [Magento 2 SEO](https://github.com/landofcoder/module-seo)
+- [Magento 2 SEO](https://github.com/landofcoder/module-seo-package)
 
