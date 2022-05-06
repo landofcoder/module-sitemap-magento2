@@ -3,7 +3,7 @@
   "description": "Magento 2 Google XML Sitemap extension",
   "require": {
     "landofcoder/module-all": "^1.*",
-    "landofcoder/module-seo-package": "*"
+    "landofcoder/module-seo": "*"
   },
   "type": "magento2-module",
   "version": "4.0.0",
